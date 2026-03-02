@@ -20,7 +20,7 @@ struct FrameNews: View {
             .frame(height: 400)
             .background(Color.green)
             .frame(maxHeight: .infinity, alignment: .top)
-            .background(Color.yellow)
+            
     }
 }
 
