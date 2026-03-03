@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct FrameNews: View {
+struct FramePractice: View {
     var body: some View {
         Text("Hello, World!")
             .background(Color.red)
@@ -26,6 +26,6 @@ struct FrameNews: View {
 
 struct FrameNews_Previews: PreviewProvider {
     static var previews: some View {
-        FrameNews()
+        FramePractice()
     }
 }

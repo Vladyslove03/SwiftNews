@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ColorNews: View {
+struct ColorPractice: View {
     //var color = ( #colorLiteral(red: 0, green: 0.3285208941, blue: 0.5748849511, alpha: 1) )
     var body: some View {
        
@@ -25,7 +25,7 @@ struct ColorNews: View {
 
 struct ColorNews_Previews: PreviewProvider {
     static var previews: some View {
-        ColorNews()
+        ColorPractice()
             
     }
 }

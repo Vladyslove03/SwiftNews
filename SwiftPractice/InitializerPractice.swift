@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct InitializerNews: View {
+ struct InitializerPractice: View {
     
     let backgroundColor: Color
     let count: Int
@@ -49,8 +49,8 @@ struct InitializerNews: View {
 struct InitializerNews_Previews: PreviewProvider {
     static var previews: some View {
         HStack {
-            InitializerNews(count: 100, fruit: .apple)
-            InitializerNews(count: 46, fruit: .orange)
+            InitializerPractice(count: 100, fruit: .apple)
+            InitializerPractice(count: 46, fruit: .orange)
 
         }
         

@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ImageNews: View {
+struct ImagePractice: View {
     var body: some View {
         Image("apple")
             //.renderingMode(.template)
@@ -29,6 +29,6 @@ struct ImageNews: View {
 
 struct ImageNews_Previews: PreviewProvider {
     static var previews: some View {
-        ImageNews()
+        ImagePractice()
     }
 }

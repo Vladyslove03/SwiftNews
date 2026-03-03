@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ShapesNews: View {
+struct ShapesPractice: View {
     var body: some View {
         //Capsule(style: .circular)
         //Ellipse()
@@ -28,6 +28,6 @@ struct ShapesNews: View {
 
 struct ShapesNews_Previews: PreviewProvider {
     static var previews: some View {
-        ShapesNews()
+        ShapesPractice()
     }
 }

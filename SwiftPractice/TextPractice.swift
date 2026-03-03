@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct TextNews: View {
+struct TextPractice: View {
     var body: some View {
         Text("Hello, World! This is Swiftful. I am really enjoying this course.")
 //            .font(.caption)
@@ -24,6 +24,6 @@ struct TextNews: View {
 
 struct TextNews_Previews: PreviewProvider {
     static var previews: some View {
-        TextNews()
+        TextPractice()
     }
 }

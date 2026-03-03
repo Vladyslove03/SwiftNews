@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct StacksNews: View {
+struct StacksPractice: View {
     // Vstacks -> Vertical
     // Hstacks -> Horizontal
     // Zstacks -> zIndex (back to front)
@@ -48,6 +48,6 @@ struct StacksNews: View {
 
 struct StacksNews_Previews: PreviewProvider {
     static var previews: some View {
-        StacksNews()
+        StacksPractice()
     }
 }

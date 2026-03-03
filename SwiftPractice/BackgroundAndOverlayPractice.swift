@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct BackgroundAndoverlayNews: View {
+struct BackgroundAndOverlayPractice: View {
     var color1 = ( #colorLiteral(red: 0.5568627715, green: 0.3529411852, blue: 0.9686274529, alpha: 1) )
     var color2 = ( #colorLiteral(red: 0.3647058904, green: 0.06666667014, blue: 0.9686274529, alpha: 1) )
     var color3 = ( #colorLiteral(red: 0.3647058904, green: 0.06666667014, blue: 0.9686274529, alpha: 1) )
@@ -44,6 +44,6 @@ struct BackgroundAndoverlayNews: View {
 
 struct BackgroundAndoverlayNews_Previews: PreviewProvider {
     static var previews: some View {
-        BackgroundAndoverlayNews()
+        BackgroundAndOverlayPractice()
     }
 }

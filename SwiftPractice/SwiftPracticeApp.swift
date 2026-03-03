@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct SwiftNewsApp: App {
+struct SwiftPracticeApp: App {
     var body: some Scene {
         WindowGroup {
-            ColorNews()
+            ColorPractice()
         }
     }
 }

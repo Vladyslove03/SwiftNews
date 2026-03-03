@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct IconsNews: View {
+struct IconsPractice: View {
     var body: some View {
         Image(systemName: "person.fill.badge.plus")
             .renderingMode(.original)
@@ -26,6 +26,6 @@ struct IconsNews: View {
 
 struct IconsNews_Previews: PreviewProvider {
     static var previews: some View {
-        IconsNews()
+        IconsPractice()
     }
 }

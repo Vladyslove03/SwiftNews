@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct PaddingAndSpaserNews: View {
+struct PaddingAndSpacerPractice: View {
     var body: some View {
         VStack(alignment: .leading) {
             Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
@@ -35,6 +35,6 @@ struct PaddingAndSpaserNews: View {
 
 struct PaddingAndSpaserNews_Previews: PreviewProvider {
     static var previews: some View {
-        PaddingAndSpaserNews()
+        PaddingAndSpacerPractice()
     }
 }
