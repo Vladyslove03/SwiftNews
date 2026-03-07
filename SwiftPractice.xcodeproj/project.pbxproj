@@ -33,6 +33,7 @@
 		8CFEE6A02F5B03B400B20DE4 /* TernaryPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE69F2F5B03B400B20DE4 /* TernaryPractice.swift */; };
 		8CFEE6A22F5B09C700B20DE4 /* AnimationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6A12F5B09C700B20DE4 /* AnimationPractice.swift */; };
 		8CFEE6A42F5B134E00B20DE4 /* AnimationTimingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6A32F5B134E00B20DE4 /* AnimationTimingPractice.swift */; };
+		8CFEE6A62F5C602E00B20DE4 /* TransitionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 		8CFEE69F2F5B03B400B20DE4 /* TernaryPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryPractice.swift; sourceTree = "<group>"; };
 		8CFEE6A12F5B09C700B20DE4 /* AnimationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationPractice.swift; sourceTree = "<group>"; };
 		8CFEE6A32F5B134E00B20DE4 /* AnimationTimingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingPractice.swift; sourceTree = "<group>"; };
+		8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				8C4D129C2F5599E10014322B /* StacksPractice.swift */,
 				8C67B1BE2F5788B7008287A1 /* ForEachPractice.swift */,
 				8C3D5ABF2F51004400F76D28 /* TextPractice.swift */,
+				8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */,
 				8C67B1C02F578DCE008287A1 /* ScrollVievPractice.swift */,
 				8C67B1C62F585928008287A1 /* ButtonsPractice.swift */,
 				8C53317B2F5861BE0011A606 /* StatePractice.swift */,
@@ -217,6 +220,7 @@
 				8CFEE6A42F5B134E00B20DE4 /* AnimationTimingPractice.swift in Sources */,
 				8CFEE6A22F5B09C700B20DE4 /* AnimationPractice.swift in Sources */,
 				8C3D5AC02F51004400F76D28 /* TextPractice.swift in Sources */,
+				8CFEE6A62F5C602E00B20DE4 /* TransitionPractice.swift in Sources */,
 				8C75DF092F59A936005E9CA0 /* ConditionalPractice.swift in Sources */,
 				8C5A1FAA2F5070B000097E18 /* SwiftPracticeApp.swift in Sources */,
 				8C75DF052F599C5F005E9CA0 /* ExtractSubviewsPractice.swift in Sources */,
