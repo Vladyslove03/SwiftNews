@@ -34,6 +34,7 @@
 		8CFEE6A22F5B09C700B20DE4 /* AnimationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6A12F5B09C700B20DE4 /* AnimationPractice.swift */; };
 		8CFEE6A42F5B134E00B20DE4 /* AnimationTimingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6A32F5B134E00B20DE4 /* AnimationTimingPractice.swift */; };
 		8CFEE6A62F5C602E00B20DE4 /* TransitionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */; };
+		8CFEE6A82F5C6E6300B20DE4 /* SheetsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6A72F5C6E6300B20DE4 /* SheetsPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,6 +66,7 @@
 		8CFEE6A12F5B09C700B20DE4 /* AnimationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationPractice.swift; sourceTree = "<group>"; };
 		8CFEE6A32F5B134E00B20DE4 /* AnimationTimingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingPractice.swift; sourceTree = "<group>"; };
 		8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionPractice.swift; sourceTree = "<group>"; };
+		8CFEE6A72F5C6E6300B20DE4 /* SheetsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				8C3D5ABF2F51004400F76D28 /* TextPractice.swift */,
 				8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */,
 				8C67B1C02F578DCE008287A1 /* ScrollVievPractice.swift */,
+				8CFEE6A72F5C6E6300B20DE4 /* SheetsPractice.swift */,
 				8C67B1C62F585928008287A1 /* ButtonsPractice.swift */,
 				8C53317B2F5861BE0011A606 /* StatePractice.swift */,
 				8C67B1C22F5794A7008287A1 /* GridPractice.swift */,
@@ -206,6 +209,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CFEE6A82F5C6E6300B20DE4 /* SheetsPractice.swift in Sources */,
 				8CFEE6A02F5B03B400B20DE4 /* TernaryPractice.swift in Sources */,
 				8C3D5AC22F51063B00F76D28 /* ShapesPractice.swift in Sources */,
 				8C67B1C12F578DCE008287A1 /* ScrollVievPractice.swift in Sources */,
