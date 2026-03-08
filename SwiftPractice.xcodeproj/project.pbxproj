@@ -35,6 +35,7 @@
 		8CFEE6A42F5B134E00B20DE4 /* AnimationTimingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6A32F5B134E00B20DE4 /* AnimationTimingPractice.swift */; };
 		8CFEE6A62F5C602E00B20DE4 /* TransitionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */; };
 		8CFEE6A82F5C6E6300B20DE4 /* SheetsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6A72F5C6E6300B20DE4 /* SheetsPractice.swift */; };
+		8CFEE6AA2F5DA4A000B20DE4 /* PopoverPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6A92F5DA4A000B20DE4 /* PopoverPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		8CFEE6A32F5B134E00B20DE4 /* AnimationTimingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingPractice.swift; sourceTree = "<group>"; };
 		8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionPractice.swift; sourceTree = "<group>"; };
 		8CFEE6A72F5C6E6300B20DE4 /* SheetsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsPractice.swift; sourceTree = "<group>"; };
+		8CFEE6A92F5DA4A000B20DE4 /* PopoverPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				8C53317B2F5861BE0011A606 /* StatePractice.swift */,
 				8C67B1C22F5794A7008287A1 /* GridPractice.swift */,
 				8CFEE6A12F5B09C700B20DE4 /* AnimationPractice.swift */,
+				8CFEE6A92F5DA4A000B20DE4 /* PopoverPractice.swift */,
 				8CFEE6A32F5B134E00B20DE4 /* AnimationTimingPractice.swift */,
 				8C75DF022F5997AB005E9CA0 /* ExtractedFunctionPractice.swift */,
 				8C75DF062F59A187005E9CA0 /* BindingPractice.swift */,
@@ -221,6 +224,7 @@
 				8C4D129D2F5599E10014322B /* StacksPractice.swift in Sources */,
 				8C4D12A12F56E8740014322B /* PaddingAndSpacerPractice.swift in Sources */,
 				8C7881182F558D5B00C94DF7 /* BackgroundAndOverlayPractice.swift in Sources */,
+				8CFEE6AA2F5DA4A000B20DE4 /* PopoverPractice.swift in Sources */,
 				8CFEE6A42F5B134E00B20DE4 /* AnimationTimingPractice.swift in Sources */,
 				8CFEE6A22F5B09C700B20DE4 /* AnimationPractice.swift in Sources */,
 				8C3D5AC02F51004400F76D28 /* TextPractice.swift in Sources */,

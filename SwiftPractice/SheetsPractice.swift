@@ -51,9 +51,7 @@ struct SecondScreen: View {
                     .font(.largeTitle)
                     .padding(20)
                     
-                    
             }
-            
         }
     }
     
