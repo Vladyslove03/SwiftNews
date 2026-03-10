@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C0FF1C92F6029AA007DF5A7 /* ContextMenuPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0FF1C82F6029AA007DF5A7 /* ContextMenuPractice.swift */; };
 		8C3D5AC02F51004400F76D28 /* TextPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3D5ABF2F51004400F76D28 /* TextPractice.swift */; };
 		8C3D5AC22F51063B00F76D28 /* ShapesPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3D5AC12F51063B00F76D28 /* ShapesPractice.swift */; };
 		8C3D5AC42F51C6D100F76D28 /* ColorPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3D5AC32F51C6D000F76D28 /* ColorPractice.swift */; };
@@ -43,6 +44,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8C0FF1C82F6029AA007DF5A7 /* ContextMenuPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuPractice.swift; sourceTree = "<group>"; };
 		8C3D5ABF2F51004400F76D28 /* TextPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextPractice.swift; sourceTree = "<group>"; };
 		8C3D5AC12F51063B00F76D28 /* ShapesPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesPractice.swift; sourceTree = "<group>"; };
 		8C3D5AC32F51C6D000F76D28 /* ColorPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPractice.swift; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 				8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */,
 				8C67B1C02F578DCE008287A1 /* ScrollVievPractice.swift */,
 				8CFEE6A72F5C6E6300B20DE4 /* SheetsPractice.swift */,
+				8C0FF1C82F6029AA007DF5A7 /* ContextMenuPractice.swift */,
 				8CFEE6AB2F5DAC5000B20DE4 /* NavigationViewPractice.swift */,
 				8C717D122F5EE0D700D890F0 /* AlertPractice.swift */,
 				8C67B1C62F585928008287A1 /* ButtonsPractice.swift */,
@@ -228,6 +231,7 @@
 				8CFEE6A02F5B03B400B20DE4 /* TernaryPractice.swift in Sources */,
 				8C3D5AC22F51063B00F76D28 /* ShapesPractice.swift in Sources */,
 				8C67B1C12F578DCE008287A1 /* ScrollVievPractice.swift in Sources */,
+				8C0FF1C92F6029AA007DF5A7 /* ContextMenuPractice.swift in Sources */,
 				8C717D112F5EC80800D890F0 /* ListPractice.swift in Sources */,
 				8C53317C2F5861BE0011A606 /* StatePractice.swift in Sources */,
 				8C75DF032F5997AB005E9CA0 /* ExtractedFunctionPractice.swift in Sources */,
