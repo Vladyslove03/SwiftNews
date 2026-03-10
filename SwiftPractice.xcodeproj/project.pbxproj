@@ -20,6 +20,7 @@
 		8C4F5DE52F6087B300F33285 /* TextEditorPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4F5DE42F6087B300F33285 /* TextEditorPractice.swift */; };
 		8C4F5DE72F608D0600F33285 /* TogglePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4F5DE62F608D0600F33285 /* TogglePractice.swift */; };
 		8C4F5DE92F608EC100F33285 /* PickerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4F5DE82F608EC100F33285 /* PickerPractice.swift */; };
+		8C4F5DEB2F609A9D00F33285 /* ColorPickerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4F5DEA2F609A9D00F33285 /* ColorPickerPractice.swift */; };
 		8C53317C2F5861BE0011A606 /* StatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C53317B2F5861BE0011A606 /* StatePractice.swift */; };
 		8C5A1FAA2F5070B000097E18 /* SwiftPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C5A1FA92F5070B000097E18 /* SwiftPracticeApp.swift */; };
 		8C5A1FAE2F5070B300097E18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C5A1FAD2F5070B300097E18 /* Assets.xcassets */; };
@@ -61,6 +62,7 @@
 		8C4F5DE42F6087B300F33285 /* TextEditorPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorPractice.swift; sourceTree = "<group>"; };
 		8C4F5DE62F608D0600F33285 /* TogglePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TogglePractice.swift; sourceTree = "<group>"; };
 		8C4F5DE82F608EC100F33285 /* PickerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerPractice.swift; sourceTree = "<group>"; };
+		8C4F5DEA2F609A9D00F33285 /* ColorPickerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerPractice.swift; sourceTree = "<group>"; };
 		8C53317B2F5861BE0011A606 /* StatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePractice.swift; sourceTree = "<group>"; };
 		8C5A1FA62F5070B000097E18 /* SwiftPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C5A1FA92F5070B000097E18 /* SwiftPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftPracticeApp.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */,
 				8C67B1C02F578DCE008287A1 /* ScrollVievPractice.swift */,
 				8C4F5DE82F608EC100F33285 /* PickerPractice.swift */,
+				8C4F5DEA2F609A9D00F33285 /* ColorPickerPractice.swift */,
 				8C4F5DE42F6087B300F33285 /* TextEditorPractice.swift */,
 				8CFEE6A72F5C6E6300B20DE4 /* SheetsPractice.swift */,
 				8C0FF1CA2F602FE6007DF5A7 /* TextFieldPractice.swift */,
@@ -248,6 +251,7 @@
 				8C53317C2F5861BE0011A606 /* StatePractice.swift in Sources */,
 				8C75DF032F5997AB005E9CA0 /* ExtractedFunctionPractice.swift in Sources */,
 				8C67B1C32F5794A7008287A1 /* GridPractice.swift in Sources */,
+				8C4F5DEB2F609A9D00F33285 /* ColorPickerPractice.swift in Sources */,
 				8C67B1BF2F5788B7008287A1 /* ForEachPractice.swift in Sources */,
 				8C75DF072F59A187005E9CA0 /* BindingPractice.swift in Sources */,
 				8C0FF1CB2F602FE6007DF5A7 /* TextFieldPractice.swift in Sources */,
